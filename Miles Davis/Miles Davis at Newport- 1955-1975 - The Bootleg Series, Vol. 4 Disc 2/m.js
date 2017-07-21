@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Gingerbread Boy [1966 Version][Version].mp3";		
+f[2]	= "02 All Blues.mp3";		
+f[3]	= "03 Stella by Starlight.mp3";		
+f[4]	= "05 Seven Steps to Heaven.mp3";		
+f[5]	= "06 The Theme-Closing Announcement by Leonard Feather.mp3";		
+f[6]	= "07 Spoken Introduction by Del Shields.mp3";		
+f[7]	= "08 Gingerbread Boy [1967 Version][Version].mp3";		
+f[8]	= "10 'Round Midnight [1967 Version][Version].mp3";		
+f[9]	= "11 So What.mp3";		
+f[10]	= "12 The Theme-Closing Announcement by Del Shields [1967 Version][Version].mp3";		
+f[11]	= "Footprints.mp3";		
+f[12]	= "R.J.mp3";		
