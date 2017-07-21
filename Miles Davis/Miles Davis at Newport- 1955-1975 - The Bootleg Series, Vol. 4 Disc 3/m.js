@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Miles Runs the Voodoo Down [_].mp3";		
+f[2]	= "02 Sanctuary [_][1969 Version][Version].mp3";		
+f[3]	= "03 It's About That Time-The Theme [_].mp3";		
+f[4]	= "04 Band Warming Up-Voice Over Introduction.mp3";		
+f[5]	= "06 Tune in 5.mp3";		
+f[6]	= "08 Untitled Original.mp3";		
+f[7]	= "09 Tune in 5 (Reprise) [Version].mp3";		
+f[8]	= "Ife.mp3";		
+f[9]	= "Mtume.mp3";		
+f[10]	= "Turnaroundphrase.mp3";		
