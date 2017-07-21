@@ -1,0 +1,9 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "02 What I Say.mp3";		
+f[2]	= "03 Sanctuary [1971 Version][Version].mp3";		
+f[3]	= "04 It's About That Time.mp3";		
+f[4]	= "05 Bitches Brew.mp3";		
+f[5]	= "06 Funky Tonk.mp3";		
+f[6]	= "07 Sanctuary (Reprise) [Version].mp3";		
+f[7]	= "Directions.mp3";		
